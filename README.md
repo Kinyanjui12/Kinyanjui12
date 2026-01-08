@@ -10,4 +10,5 @@
 Also, I'm an undergraduate at Dedan Kimathi University of Technology, taking a Bachelor of Science in Information Technology.
 
 🎯 I'm looking to collaborate with people intrigued by problem-solving and have the skills to do so.
+
 📫 You can reach me through "Kinyanjuindungu6174@gmail.com"
