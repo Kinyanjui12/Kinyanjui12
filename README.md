@@ -1,4 +1,4 @@
-👋 Hi there, I'm Ian Kinyanjui
+👋 Hi there, I'm Kinyanjui
 
 👨‍💻 I'm interested in interacting with other developers and sharing great ideas.
 
