@@ -1,7 +1,9 @@
 👋 Hi there, I'm Ian Kinyanjui
 
 👨‍💻 I'm interested in interacting with other developers and sharing great ideas.
+
 🛠 I'm currently equipped with skills in:
+
     --> mobile application programming using Flutter framework and MERN stack.
     --> Full-stack web-development using HTML, CSS, JavaScript, SQL, and related technologies.
     
